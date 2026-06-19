@@ -1,0 +1,6 @@
+{
+  "name": "Nexora AI",
+  "description": "Próxima generación de ingeniería web y soluciones potenciadas por Inteligencia Artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
